@@ -1,0 +1,3 @@
+/Users/ammaryasser/Documents/Code Repos/canonical_assignment/ubunto_cloud_image_fetcher/build/CMakeFiles/UbuntuCloudImageInfo.dir
+/Users/ammaryasser/Documents/Code Repos/canonical_assignment/ubunto_cloud_image_fetcher/build/CMakeFiles/edit_cache.dir
+/Users/ammaryasser/Documents/Code Repos/canonical_assignment/ubunto_cloud_image_fetcher/build/CMakeFiles/rebuild_cache.dir
